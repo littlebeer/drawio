@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T04:02:21.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.13" etag="VpsxMhfjaw29SMysMLxW" type="github"><diagram name="第 1 页" id="ShiBjaUn5NpqmKY1OI0-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-28T04:08:10.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5s7pJtVPSNIJg5o_er2g" version="20.8.13" type="github">
+  <diagram name="第 1 页" id="ShiBjaUn5NpqmKY1OI0-">
+    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-1" value="杨冬" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gCxUzcNpCIhaYjwT0OHy-2" target="gCxUzcNpCIhaYjwT0OHy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-5" value="母亲" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gCxUzcNpCIhaYjwT0OHy-4">
+          <mxGeometry x="0.3143" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gCxUzcNpCIhaYjwT0OHy-2" target="gCxUzcNpCIhaYjwT0OHy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-10" value="上级领导" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gCxUzcNpCIhaYjwT0OHy-9">
+          <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="gCxUzcNpCIhaYjwT0OHy-2" target="gCxUzcNpCIhaYjwT0OHy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-15" value="女儿" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gCxUzcNpCIhaYjwT0OHy-14">
+          <mxGeometry x="0.3" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-2" value="叶文洁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gCxUzcNpCIhaYjwT0OHy-8" target="gCxUzcNpCIhaYjwT0OHy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-13" value="学生" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gCxUzcNpCIhaYjwT0OHy-12">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-8" value="杨卫宁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-11" value="叶哲泰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
