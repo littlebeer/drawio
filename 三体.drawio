@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T04:44:17.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="e7K2zbkVvxIO2SsJOGnV" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T04:54:06.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0WvqQOYWZI-pSovn1yCe" version="20.8.13" type="github">
   <diagram name="第 1 页" id="ShiBjaUn5NpqmKY1OI0-">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,8 +124,8 @@
         <mxCell id="gCxUzcNpCIhaYjwT0OHy-28" value="雷志成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCxUzcNpCIhaYjwT0OHy-33" value="申玉菲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="450" width="50" height="30" as="geometry" />
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-33" value="申玉菲&lt;br&gt;（应用科学工作者）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCxUzcNpCIhaYjwT0OHy-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gCxUzcNpCIhaYjwT0OHy-36" target="gCxUzcNpCIhaYjwT0OHy-2">
           <mxGeometry relative="1" as="geometry" />
@@ -152,8 +152,20 @@
         <mxCell id="gCxUzcNpCIhaYjwT0OHy-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gCxUzcNpCIhaYjwT0OHy-42" target="gCxUzcNpCIhaYjwT0OHy-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gCxUzcNpCIhaYjwT0OHy-42" value="潘寒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="450" width="50" height="30" as="geometry" />
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;curved=1;" edge="1" parent="1" source="gCxUzcNpCIhaYjwT0OHy-42" target="gCxUzcNpCIhaYjwT0OHy-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-52" value="渗透" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="gCxUzcNpCIhaYjwT0OHy-51">
+          <mxGeometry x="-0.4071" y="13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-42" value="潘寒&lt;br&gt;（激进环保主义者）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCxUzcNpCIhaYjwT0OHy-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gCxUzcNpCIhaYjwT0OHy-44" target="gCxUzcNpCIhaYjwT0OHy-19">
           <mxGeometry relative="1" as="geometry">
@@ -181,6 +193,17 @@
         </mxCell>
         <mxCell id="gCxUzcNpCIhaYjwT0OHy-50" value="慕星&lt;br&gt;（自媒体记者）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-54" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="gCxUzcNpCIhaYjwT0OHy-53" target="gCxUzcNpCIhaYjwT0OHy-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-55" value="下属" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="gCxUzcNpCIhaYjwT0OHy-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCxUzcNpCIhaYjwT0OHy-53" value="徐冰冰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
